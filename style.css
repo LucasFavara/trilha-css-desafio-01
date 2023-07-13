@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+}
+
+header{
+    margin:;
+    width: 1440px;
+    height: 605px;
+    background-image: url(./assets/images/banner.png);
+    border-bottom: 1px solid #33A8DB;
+}
+
+h1 {
+    color: #33A8DB;
+    text-transform: uppercase;
+}
+
+.banner-content {   
+    background: #000;
+    background: radial-gradient(#31A8DD00, #000);
+}
